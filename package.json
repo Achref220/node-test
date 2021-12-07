@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "date-fns": "^2.27.0",
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "main.js",
+  "author": "",
+  "license": "ISC"
+}
